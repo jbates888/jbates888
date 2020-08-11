@@ -20,10 +20,6 @@
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-android-studio.svg/1200px-Breezeicons-apps-48-android-studio.svg.png"></code>
 
 
-
-<br />
-<br />
-
 ---
 
 [website]: http://jackbates8.pythonanywhere.com/
